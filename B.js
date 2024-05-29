@@ -1,6 +1,6 @@
 document.write(`
 <html>
-<label>LLLLLLLLL</label>
+
 <head>
 
     <meta charset="UTF-8">
